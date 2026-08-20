@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb5d61dd8c6ea4444b8d309fc119139e
+timeCreated: 1461248878
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Wood/WoodBlocks C/WoodSquare00.prefab
+  uploadId: 771197

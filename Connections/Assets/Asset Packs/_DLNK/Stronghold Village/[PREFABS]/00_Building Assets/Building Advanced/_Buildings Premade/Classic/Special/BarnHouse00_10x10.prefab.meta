@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 717be8090845d1940a9e2e09aba386ed
+timeCreated: 1534527561
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/_Buildings Premade/Classic/Special/BarnHouse00_10x10.prefab
+  uploadId: 771197

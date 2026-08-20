@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 07c8b07b28e135741bc8fbda2604f84a
+timeCreated: 1461253849
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Window/Classic/AbocinatedArch01.prefab
+  uploadId: 771197

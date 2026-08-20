@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6560279ade003340820995eca7810d2
+timeCreated: 1425820903
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Door/Classic/WoodenDoor_Basic01.prefab
+  uploadId: 771197

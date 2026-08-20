@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 364be897554451c42a77fcb8349d8ada
+timeCreated: 1461686662
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Door/Classic/Hinge.prefab
+  uploadId: 771197

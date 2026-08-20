@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e975b50b11e1c241ab76069df76218a
+timeCreated: 1534623843
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/Stronghold Assets/Strong Walls/StrongWalls Tower/SemiTower00c.prefab
+  uploadId: 771197

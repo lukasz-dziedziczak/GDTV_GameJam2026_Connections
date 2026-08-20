@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a747b7a3fb86d064da43f164532b961f
+timeCreated: 1535204993
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/Church Assets/Ceiling/ChurchWallCeilingVault002.prefab
+  uploadId: 771197

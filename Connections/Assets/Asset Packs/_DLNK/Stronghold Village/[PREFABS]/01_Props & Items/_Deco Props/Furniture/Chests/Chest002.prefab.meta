@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f552826f613b8074b9294393635319be
+timeCreated: 1537304035
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/01_Props & Items/_Deco Props/Furniture/Chests/Chest002.prefab
+  uploadId: 771197

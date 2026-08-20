@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94945fe2810d2b248b385f6ef80a7777
+timeCreated: 1535828924
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Roof/Wood Tiles/RoofClassic_9x6.prefab
+  uploadId: 771197

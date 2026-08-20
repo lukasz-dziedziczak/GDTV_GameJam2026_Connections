@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3d9d0d1743331a4b91d4f47686246f6
+timeCreated: 1458513398
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Door/Classic/WoodGate01.prefab
+  uploadId: 771197

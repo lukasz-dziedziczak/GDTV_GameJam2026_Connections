@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 89d7a6d6de8aaf342915cf0e24fe172f
+timeCreated: 1485516665
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/_Legacy/_Legacy_GridSnap/_Room
+    Premade/GroundHouseBlock02.prefab
+  uploadId: 771197

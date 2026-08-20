@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: caaa707933994f24f8c2992461f14e58
+timeCreated: 1461232628
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Stairs/WoodStairs01.prefab
+  uploadId: 771197

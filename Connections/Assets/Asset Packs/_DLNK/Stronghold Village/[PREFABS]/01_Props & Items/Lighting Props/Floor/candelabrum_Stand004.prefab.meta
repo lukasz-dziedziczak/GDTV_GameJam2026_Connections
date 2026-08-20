@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 62514d62293a4de45b18e0fe7d466f47
+timeCreated: 1462848197
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/01_Props & Items/Lighting
+    Props/Floor/candelabrum_Stand004.prefab
+  uploadId: 771197

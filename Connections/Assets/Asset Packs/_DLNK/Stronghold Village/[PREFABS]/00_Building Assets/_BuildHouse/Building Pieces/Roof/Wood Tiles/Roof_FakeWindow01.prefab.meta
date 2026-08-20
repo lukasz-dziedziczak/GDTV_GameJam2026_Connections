@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5db78efd4ec6f2f44b6b2d17e3d9dd36
+timeCreated: 1535978101
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Roof/Wood Tiles/Roof_FakeWindow01.prefab
+  uploadId: 771197

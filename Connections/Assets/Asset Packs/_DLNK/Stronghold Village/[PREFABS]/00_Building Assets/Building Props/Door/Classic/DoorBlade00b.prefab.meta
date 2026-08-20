@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13f8077c4fe985a46b1bb3d49672d953
+timeCreated: 1485283227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Door/Classic/DoorBlade00b.prefab
+  uploadId: 771197

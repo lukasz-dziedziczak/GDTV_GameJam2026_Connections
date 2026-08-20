@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bcd7c1f0d38234945aba3d8d7b2dbae4
+timeCreated: 1458515612
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/_Legacy/_Old
+    Blocks/Building Basics/Wall/CastlePack_Basics_109.prefab
+  uploadId: 771197

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eeb7d3b10c46dc842a339ede7a3c0b1e
+timeCreated: 1458371820
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Door/Classic/WoodGateFrame.prefab
+  uploadId: 771197

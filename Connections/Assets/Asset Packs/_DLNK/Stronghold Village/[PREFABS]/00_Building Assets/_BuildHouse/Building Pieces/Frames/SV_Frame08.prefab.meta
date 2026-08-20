@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ea67253ccb1733438219191606f3375
+timeCreated: 1522338943
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Frames/SV_Frame08.prefab
+  uploadId: 771197

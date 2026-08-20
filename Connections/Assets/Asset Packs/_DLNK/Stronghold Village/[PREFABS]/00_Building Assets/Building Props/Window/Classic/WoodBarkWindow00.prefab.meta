@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb2575f0c1bed09418c9174e0ba9f0ac
+timeCreated: 1461704210
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Window/Classic/WoodBarkWindow00.prefab
+  uploadId: 771197

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 185c52a883041c24f940c9205cc2b44d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Walls/Classic/Rustic/Interior/SV_BuildWall06_01_int.prefab
+  uploadId: 771197

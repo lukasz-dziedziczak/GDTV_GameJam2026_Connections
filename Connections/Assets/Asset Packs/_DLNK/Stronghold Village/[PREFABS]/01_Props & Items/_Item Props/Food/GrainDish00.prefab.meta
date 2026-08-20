@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ac15c4dbf009b4b4aa541894115750de
+timeCreated: 1537379193
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/01_Props & Items/_Item Props/Food/GrainDish00.prefab
+  uploadId: 771197

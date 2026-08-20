@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5701e8757eb11114eb524a6e19152f21
+timeCreated: 1534778032
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/Stronghold Assets/Stronghold Ground/01Standard/Levels/GroundFloor006.prefab
+  uploadId: 771197

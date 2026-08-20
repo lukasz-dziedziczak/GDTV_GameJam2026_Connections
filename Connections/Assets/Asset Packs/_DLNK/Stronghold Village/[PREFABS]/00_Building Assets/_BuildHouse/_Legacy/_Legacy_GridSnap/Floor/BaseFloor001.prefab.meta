@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8394126a46fc8394c8cd4d4c111f5247
+timeCreated: 1485823031
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/_Legacy/_Legacy_GridSnap/Floor/BaseFloor001.prefab
+  uploadId: 771197

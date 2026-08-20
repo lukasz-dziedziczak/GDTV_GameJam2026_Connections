@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d1e77369ae2ca504c924c4038538be0b
+timeCreated: 1485463007
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Bricks/Classic/BrickLine01.prefab
+  uploadId: 771197

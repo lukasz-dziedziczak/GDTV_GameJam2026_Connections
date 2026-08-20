@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1f7aa98070d7fac4baddb2c0c463fb16
+timeCreated: 1536850836
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Misc Deco/Fountain02b.prefab
+  uploadId: 771197

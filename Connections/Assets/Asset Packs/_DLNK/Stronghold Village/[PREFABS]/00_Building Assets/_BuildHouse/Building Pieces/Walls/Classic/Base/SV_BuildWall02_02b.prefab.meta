@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c6494be5aabaaab4fbd3bdc607436f10
+timeCreated: 1522178249
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Walls/Classic/Base/SV_BuildWall02_02b.prefab
+  uploadId: 771197

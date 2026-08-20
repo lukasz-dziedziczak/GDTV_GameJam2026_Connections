@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 106afe89cfa179f488ca17f471e96870
+timeCreated: 1485975801
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Bricks/Classic/StonePallet00.prefab
+  uploadId: 771197

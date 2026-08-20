@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 374bba3376806f14b9e764160989a5dc
+timeCreated: 1461688711
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Door/Classic/DoorInside00a.prefab
+  uploadId: 771197

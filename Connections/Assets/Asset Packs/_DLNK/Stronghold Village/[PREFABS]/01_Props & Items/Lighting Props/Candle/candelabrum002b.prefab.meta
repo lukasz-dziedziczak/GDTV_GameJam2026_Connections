@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a424d1ec3187e314888c1fe849e865c5
+timeCreated: 1462584339
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/01_Props & Items/Lighting
+    Props/Candle/candelabrum002b.prefab
+  uploadId: 771197

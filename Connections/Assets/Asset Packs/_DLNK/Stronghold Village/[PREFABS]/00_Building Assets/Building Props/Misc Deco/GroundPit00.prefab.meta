@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 439acaab82e15e24f85ab876c2cf040e
+timeCreated: 1494086617
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Misc Deco/GroundPit00.prefab
+  uploadId: 771197

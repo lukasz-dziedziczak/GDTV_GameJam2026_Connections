@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 045b27385b02e0c4493297c39fee509b
+timeCreated: 1549214697
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/_Buildings Premade/Classic/Special/Temple00.prefab
+  uploadId: 771197

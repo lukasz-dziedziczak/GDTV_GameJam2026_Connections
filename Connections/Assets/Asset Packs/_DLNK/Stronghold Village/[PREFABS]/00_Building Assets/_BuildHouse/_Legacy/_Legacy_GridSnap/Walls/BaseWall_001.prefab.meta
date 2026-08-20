@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c71a45f763ce3544c9d1c993a6a33253
+timeCreated: 1485826459
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/_Legacy/_Legacy_GridSnap/Walls/BaseWall_001.prefab
+  uploadId: 771197

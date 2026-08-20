@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4992b262310e7fa4a8cca2c5e125a384
+timeCreated: 1461193530
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Stairs/Ramp_entrance00.prefab
+  uploadId: 771197

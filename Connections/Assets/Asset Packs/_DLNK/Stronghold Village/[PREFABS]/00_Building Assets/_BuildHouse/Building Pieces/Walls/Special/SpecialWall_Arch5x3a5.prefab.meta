@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f524cd65f06901a49b59b7b1445cc1aa
+timeCreated: 1535718351
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Walls/Special/SpecialWall_Arch5x3a5.prefab
+  uploadId: 771197

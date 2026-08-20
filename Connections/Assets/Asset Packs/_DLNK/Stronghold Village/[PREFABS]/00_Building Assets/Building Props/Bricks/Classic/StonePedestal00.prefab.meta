@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ddf2b1fc99236a4e85346bdb3674388
+timeCreated: 1485975855
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Bricks/Classic/StonePedestal00.prefab
+  uploadId: 771197

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ade4b59229422e4c96d0c196f00937e
+timeCreated: 1535652572
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Walls/Classic/Leaking/Exterior/Plaster/SV_BuildWall06_01.prefab
+  uploadId: 771197

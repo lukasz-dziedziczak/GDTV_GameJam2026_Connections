@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64ccef9f37b6a19499dddb2648443585
+timeCreated: 1522404957
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Roof/Wood Tiles/SV_Roof04.prefab
+  uploadId: 771197

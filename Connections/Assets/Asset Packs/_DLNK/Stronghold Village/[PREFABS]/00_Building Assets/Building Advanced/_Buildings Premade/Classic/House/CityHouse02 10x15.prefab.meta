@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1395b9f75561bdd4897d2fb8d8ceae85
+timeCreated: 1549214907
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/_Buildings Premade/Classic/House/CityHouse02 10x15.prefab
+  uploadId: 771197

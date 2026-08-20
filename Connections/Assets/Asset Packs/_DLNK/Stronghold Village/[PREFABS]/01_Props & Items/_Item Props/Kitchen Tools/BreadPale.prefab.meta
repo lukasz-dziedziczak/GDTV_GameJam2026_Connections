@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bdd93e45191f54a4ba3ee0b5f8696338
+timeCreated: 1461586631
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/01_Props & Items/_Item Props/Kitchen
+    Tools/BreadPale.prefab
+  uploadId: 771197

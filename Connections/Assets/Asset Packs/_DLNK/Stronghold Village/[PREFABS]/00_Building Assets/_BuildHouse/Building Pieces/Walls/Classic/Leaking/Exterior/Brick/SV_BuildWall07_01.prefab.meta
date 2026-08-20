@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3fbad9836d191c04ebd7b03f471e83c8
+timeCreated: 1534797264
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Walls/Classic/Leaking/Exterior/Brick/SV_BuildWall07_01.prefab
+  uploadId: 771197

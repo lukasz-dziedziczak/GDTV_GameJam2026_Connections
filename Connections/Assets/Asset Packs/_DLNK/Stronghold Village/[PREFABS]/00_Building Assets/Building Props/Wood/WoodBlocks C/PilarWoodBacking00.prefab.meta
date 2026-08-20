@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9b615aaca6830f4fadb42657870ad1a
+timeCreated: 1461175587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Wood/WoodBlocks C/PilarWoodBacking00.prefab
+  uploadId: 771197

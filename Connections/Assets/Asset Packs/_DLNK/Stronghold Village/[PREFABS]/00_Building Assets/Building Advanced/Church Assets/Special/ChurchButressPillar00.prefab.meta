@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5ac16ecf7e34dea4b9f67befd407aaec
+timeCreated: 1535197726
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/Church Assets/Special/ChurchButressPillar00.prefab
+  uploadId: 771197

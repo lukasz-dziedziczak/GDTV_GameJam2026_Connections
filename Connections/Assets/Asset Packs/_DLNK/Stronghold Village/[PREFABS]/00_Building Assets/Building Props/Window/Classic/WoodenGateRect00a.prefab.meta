@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 934fd2b58f1e3584abdb8bc7bdd3713c
+timeCreated: 1461685449
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Window/Classic/WoodenGateRect00a.prefab
+  uploadId: 771197

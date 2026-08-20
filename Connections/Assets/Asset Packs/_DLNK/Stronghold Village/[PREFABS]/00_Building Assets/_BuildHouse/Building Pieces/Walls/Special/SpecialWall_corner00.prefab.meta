@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c855738b085516a45be8fb55bfc4b46a
+timeCreated: 1535730823
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Walls/Special/SpecialWall_corner00.prefab
+  uploadId: 771197

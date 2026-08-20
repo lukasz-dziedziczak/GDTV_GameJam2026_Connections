@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0b7bcea18c164e54eb6c4d3dcbebb848
+timeCreated: 1536061039
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Stairs/StairsModular00.prefab
+  uploadId: 771197

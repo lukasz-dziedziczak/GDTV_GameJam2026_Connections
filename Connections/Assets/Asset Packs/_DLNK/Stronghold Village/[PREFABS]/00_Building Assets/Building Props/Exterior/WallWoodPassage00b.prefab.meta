@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e208bb2a87e85074ea690527e8a40196
+timeCreated: 1536075071
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Exterior/WallWoodPassage00b.prefab
+  uploadId: 771197

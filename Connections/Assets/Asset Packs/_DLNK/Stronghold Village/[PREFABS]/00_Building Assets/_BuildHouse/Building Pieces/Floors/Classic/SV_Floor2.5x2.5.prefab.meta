@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d28c77b269d30814aa04ff2729214384
+timeCreated: 1522176246
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Floors/Classic/SV_Floor2.5x2.5.prefab
+  uploadId: 771197

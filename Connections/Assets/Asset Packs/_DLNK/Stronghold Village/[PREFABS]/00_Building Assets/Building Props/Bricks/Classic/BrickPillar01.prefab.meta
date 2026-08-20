@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a0ee856b742b514299fa3bc267519bf
+timeCreated: 1485454438
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Bricks/Classic/BrickPillar01.prefab
+  uploadId: 771197

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1d2535692144d934b83d10b12d9c2c9e
+timeCreated: 1522350599
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/Building
+    Pieces/Frames/Windows/SV_Frame05_002.prefab
+  uploadId: 771197

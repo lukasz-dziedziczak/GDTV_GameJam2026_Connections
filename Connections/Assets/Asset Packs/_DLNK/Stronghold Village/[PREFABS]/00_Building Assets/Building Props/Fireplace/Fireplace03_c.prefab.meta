@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 053056d6661f27b4290cb7477343801b
+timeCreated: 1462576851
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Fireplace/Fireplace03_c.prefab
+  uploadId: 771197

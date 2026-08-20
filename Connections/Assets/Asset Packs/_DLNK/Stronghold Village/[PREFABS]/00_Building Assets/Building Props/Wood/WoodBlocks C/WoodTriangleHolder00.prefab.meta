@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc2f9ccb1830cb1488216fe70863af46
+timeCreated: 1461458016
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Wood/WoodBlocks C/WoodTriangleHolder00.prefab
+  uploadId: 771197

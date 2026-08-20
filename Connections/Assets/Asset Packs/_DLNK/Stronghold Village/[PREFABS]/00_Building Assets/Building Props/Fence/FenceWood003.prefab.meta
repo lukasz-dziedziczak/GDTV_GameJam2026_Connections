@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d57445d1bdb3be4a9d47e1365e1b458
+timeCreated: 1461242806
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Fence/FenceWood003.prefab
+  uploadId: 771197

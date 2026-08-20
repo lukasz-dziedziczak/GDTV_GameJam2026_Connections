@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d1563d20fbedfd41bf1a3819d04854c
+timeCreated: 1486052242
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/_Legacy/_Legacy_GridSnap/Roof/RoofSimple00.prefab
+  uploadId: 771197

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06fc9988941f4ba409e2733fb8822d9e
+timeCreated: 1486314305
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Bricks/Classic/BrickBase002b.prefab
+  uploadId: 771197

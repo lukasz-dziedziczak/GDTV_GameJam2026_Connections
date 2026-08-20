@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e9f44d78fa5d3944a645871031cfea7
+timeCreated: 1485958950
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/_Legacy/_Legacy_GridSnap/Walls/Wall_Arcs01b.prefab
+  uploadId: 771197

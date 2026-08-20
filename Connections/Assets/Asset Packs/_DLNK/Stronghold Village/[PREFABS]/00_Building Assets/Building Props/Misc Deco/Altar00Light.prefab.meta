@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6157256b2e9628548a3c8bb0765766d0
+timeCreated: 1485960800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Misc Deco/Altar00Light.prefab
+  uploadId: 771197

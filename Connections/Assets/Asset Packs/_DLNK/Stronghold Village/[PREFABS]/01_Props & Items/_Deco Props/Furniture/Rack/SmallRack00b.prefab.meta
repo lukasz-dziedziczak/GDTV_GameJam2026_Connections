@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 282cfd2fa6e86e645813c4f4395eb8a8
+timeCreated: 1537442712
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/01_Props & Items/_Deco Props/Furniture/Rack/SmallRack00b.prefab
+  uploadId: 771197

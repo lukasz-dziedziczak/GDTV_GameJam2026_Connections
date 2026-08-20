@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8405c543dd55c1849b95e873d65ce33d
+timeCreated: 1549214739
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Advanced/_Buildings Premade/Classic/Special/WindMill00_10x20.prefab
+  uploadId: 771197

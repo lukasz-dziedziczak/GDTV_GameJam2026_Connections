@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11c8e4ef8283b224382587d106ed0a34
+timeCreated: 1461179165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Door/Classic/Gate_WoodArc01.prefab
+  uploadId: 771197

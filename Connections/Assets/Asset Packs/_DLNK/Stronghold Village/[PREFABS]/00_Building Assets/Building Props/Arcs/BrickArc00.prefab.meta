@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a169503c37c704f4bb0b4fc8c9f62180
+timeCreated: 1485452585
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Arcs/BrickArc00.prefab
+  uploadId: 771197

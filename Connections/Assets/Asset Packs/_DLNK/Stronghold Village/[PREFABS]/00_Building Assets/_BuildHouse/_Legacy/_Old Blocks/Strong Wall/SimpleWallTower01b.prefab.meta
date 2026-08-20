@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: accfdfda9a816f747b37399585dfca8c
+timeCreated: 1462491680
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/_BuildHouse/_Legacy/_Old
+    Blocks/Strong Wall/SimpleWallTower01b.prefab
+  uploadId: 771197

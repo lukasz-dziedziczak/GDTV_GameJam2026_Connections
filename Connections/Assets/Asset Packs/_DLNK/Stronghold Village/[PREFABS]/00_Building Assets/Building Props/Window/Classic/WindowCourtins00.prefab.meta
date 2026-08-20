@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 690e3b8f3a1846e4ea579fac0c9a4960
+timeCreated: 1461600869
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Window/Classic/WindowCourtins00.prefab
+  uploadId: 771197

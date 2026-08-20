@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5abb66f7a90672c4bb6a53ee7e8c45e4
+timeCreated: 1461338334
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/[PREFABS]/00_Building Assets/Building
+    Props/Stairs/RoundStairs00.prefab
+  uploadId: 771197
