@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc7354fe3af4d3429f1fcc40341094a, type: 3}
+  m_Name: TradeHouse
+  m_EditorClassIdentifier: Assembly-CSharp::BuildMenuItem
+  <Icon>k__BackingField: {fileID: 2800000, guid: 0254a69474a66c64ab30c67d83e5fa86, type: 3}
+  <IconBackground>k__BackingField: {fileID: 0}
+  <ConnectionObjectPrefab>k__BackingField: {fileID: 0}
+  <NodeConfig>k__BackingField: {fileID: 11400000, guid: d10c819c2bedad24c91ea703a66c95c7, type: 2}

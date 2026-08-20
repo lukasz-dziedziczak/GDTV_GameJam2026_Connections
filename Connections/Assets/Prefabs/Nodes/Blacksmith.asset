@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5f49242c2c6b544b7febe11913e21f, type: 3}
+  m_Name: Blacksmith
+  m_EditorClassIdentifier: Assembly-CSharp::NodeConfig
+  <Name>k__BackingField: Blacksmith
+  <Type>k__BackingField: 2
+  <InResources>k__BackingField:
+  - Config: {fileID: 11400000, guid: c066d7470d9c66440aa452bb307b0132, type: 2}
+    Amount: 2
+  - Config: {fileID: 11400000, guid: 81046392c40465b43885930eccbff70c, type: 2}
+    Amount: 2
+  <OutResources>k__BackingField:
+  - Config: {fileID: 11400000, guid: e65a386598f6e484d859dcfeac6f584f, type: 2}
+    Amount: 1
+  <Size>k__BackingField: {x: 2, y: 2}
+  <ObjectPrefab>k__BackingField: {fileID: 6026198374764402816, guid: ffa1666ca19e3854db09b581e4d4f68d, type: 3}
+  <ProductionTime>k__BackingField: 4

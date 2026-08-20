@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5f49242c2c6b544b7febe11913e21f, type: 3}
+  m_Name: Inn
+  m_EditorClassIdentifier: Assembly-CSharp::NodeConfig
+  <Name>k__BackingField: Inn
+  <Type>k__BackingField: 2
+  <InResources>k__BackingField:
+  - Config: {fileID: 11400000, guid: e3a64794cb1070e4b9cef6088b6b1c3e, type: 2}
+    Amount: 4
+  - Config: {fileID: 11400000, guid: 81046392c40465b43885930eccbff70c, type: 2}
+    Amount: 1
+  <OutResources>k__BackingField:
+  - Config: {fileID: 11400000, guid: f2a90c2021a6c9847b4475d61bdbd2d0, type: 2}
+    Amount: 1
+  <Size>k__BackingField: {x: 4, y: 3}
+  <ObjectPrefab>k__BackingField: {fileID: 6026198374764402816, guid: f179388e66ada8b478d9bf6e8a4a216f, type: 3}
+  <ProductionTime>k__BackingField: 4

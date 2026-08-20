@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5f49242c2c6b544b7febe11913e21f, type: 3}
+  m_Name: Coal Miner
+  m_EditorClassIdentifier: Assembly-CSharp::NodeConfig
+  <Name>k__BackingField: Miner
+  <Type>k__BackingField: 0
+  <InResources>k__BackingField: []
+  <OutResources>k__BackingField:
+  - Config: {fileID: 11400000, guid: 53e6599080c6ebd409017b20d1250531, type: 2}
+    Amount: 1
+  <Size>k__BackingField: {x: 1, y: 1}
+  <ObjectPrefab>k__BackingField: {fileID: 6026198374764402816, guid: 5b6c425d2d966a649b25692e0865f724, type: 3}
+  <ProductionTime>k__BackingField: 2
