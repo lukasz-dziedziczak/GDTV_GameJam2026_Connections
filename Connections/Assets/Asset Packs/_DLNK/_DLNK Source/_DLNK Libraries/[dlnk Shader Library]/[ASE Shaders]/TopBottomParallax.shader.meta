@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 747a7b23647ddeb4ab0302fbf6998aca
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Shader Library]/[ASE
+    Shaders]/TopBottomParallax.shader
+  uploadId: 771197
