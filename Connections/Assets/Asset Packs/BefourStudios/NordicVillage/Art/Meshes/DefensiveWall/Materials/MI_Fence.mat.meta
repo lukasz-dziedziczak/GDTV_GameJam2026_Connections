@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b994db76bf2b7b341b5354d83c2aa20f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279881
+  packageName: Medieval Nordic Village Environment
+  packageVersion: 1.0
+  assetPath: Assets/BefourStudios/NordicVillage/Art/Meshes/DefensiveWall/Materials/MI_Fence.mat
+  uploadId: 710584

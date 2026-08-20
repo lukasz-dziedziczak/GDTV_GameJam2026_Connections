@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 797da985bd872f74f8b80273b36ef32f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279881
+  packageName: Medieval Nordic Village Environment
+  packageVersion: 1.0
+  assetPath: Assets/BefourStudios/NordicVillage/Art/Animations/AnimCam01.controller
+  uploadId: 710584
