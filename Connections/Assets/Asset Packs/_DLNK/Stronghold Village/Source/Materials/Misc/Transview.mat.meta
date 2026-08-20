@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2feb64b76e0fafd42936fda756820ab8
+timeCreated: 1458373761
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/Misc/Transview.mat
+  uploadId: 771197

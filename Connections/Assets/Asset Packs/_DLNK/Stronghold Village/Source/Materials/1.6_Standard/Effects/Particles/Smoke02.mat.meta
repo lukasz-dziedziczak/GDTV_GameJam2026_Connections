@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f771b66594744454fb163465d514b1a7
+timeCreated: 1462844113
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.6_Standard/Effects/Particles/Smoke02.mat
+  uploadId: 771197

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20b9d92167f348a46840d3ca46e9c385
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/DemoScene/Stronghold Village/Stronghold
+    Exterior/OcclusionCullingData.asset
+  uploadId: 771197

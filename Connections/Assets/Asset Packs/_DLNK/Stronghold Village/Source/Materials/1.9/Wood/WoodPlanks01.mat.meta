@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6be4ae25a1225ef46bd762c8647a01e0
+timeCreated: 1534854943
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.9/Wood/WoodPlanks01.mat
+  uploadId: 771197

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 592a96f04b492ab42959ee1649d141a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Motion/Buildings/Windmill00/Rotator
+    3.controller
+  uploadId: 771197

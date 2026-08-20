@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3bebb39faf287f4c987c04a5473dbff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Meshes/2.0/LODs/RoofSpecial00_LOD_Meshes/LEVEL_3/03_RoofTile.mesh
+  uploadId: 771197

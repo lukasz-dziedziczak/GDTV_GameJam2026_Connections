@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b66e0a1f0876aa249bea1bcb1de7a827
+timeCreated: 1463157857
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.2/Windows00_glassmetal.mat
+  uploadId: 771197

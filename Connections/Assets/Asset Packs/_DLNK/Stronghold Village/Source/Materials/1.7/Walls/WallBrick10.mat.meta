@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5940b6e0873d2c1459e2b3d2e034c603
+timeCreated: 1485285699
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.7/Walls/WallBrick10.mat
+  uploadId: 771197

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7b57a5e87ee6854390b61d76fa5d36f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Meshes/2.0/LODs/Sisha_LOD_Meshes/LEVEL_2/02_Object001.mesh
+  uploadId: 771197

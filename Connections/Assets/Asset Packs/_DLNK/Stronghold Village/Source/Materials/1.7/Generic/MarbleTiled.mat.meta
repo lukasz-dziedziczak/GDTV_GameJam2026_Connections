@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17cfc44cea4ed474f9136ae934d6a4d8
+timeCreated: 1486142556
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.7/Generic/MarbleTiled.mat
+  uploadId: 771197

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2f103ffd037dbdb4e9fa02a297446e63
+timeCreated: 1537379384
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.9/Special/Weed00.mat
+  uploadId: 771197

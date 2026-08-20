@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee681d4f0fdc18149bafba8219d040f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/DemoScene/Stronghold Village/Stronghold
+    Exterior/LightingData.asset
+  uploadId: 771197

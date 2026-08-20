@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dae5bc93f7ad58e48aa4bfb0ac35abc6
+timeCreated: 1485349725
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.7/Generic/BrickWall
+    3.mat
+  uploadId: 771197

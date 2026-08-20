@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afdd3ca49d5021b43807dd112c5f792b
+timeCreated: 1458368265
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19612
+  packageName: Stronghold Village
+  packageVersion: 1.9.6
+  assetPath: Assets/_DLNK/Stronghold Village/Source/Materials/1.6_Standard/Misc/Fabric01.mat
+  uploadId: 771197
